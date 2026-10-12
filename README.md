@@ -5,10 +5,3 @@ Hi! I'm Muhammad Rizqi Al Ghifari Sultansyah<br><br> I'm currently an undergradu
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Rizqmieayam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rizqi-alghifari) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@rizqiaseli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rizqi.alghifari.062@gmail.com) 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
----
-[![](https://visitcount.itsvg.in/api?id=Rizqimieayam&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
