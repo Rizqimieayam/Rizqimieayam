@@ -1,5 +1,5 @@
 #  About Me:
-Hi! I'm Muhammad Rizqi Al Ghifari Sultansyah<br><br>. I'm currently an undergraduate student majoring in Computer Engineering at Universitas Brawijaya (UB), Indonesia.
+Hi! I'm Muhammad Rizqi Al Ghifari Sultansyah<br><br> I'm currently an undergraduate student majoring in Computer Engineering at Universitas Brawijaya (UB), Indonesia.
 
 
 ## 🌐 Socials:
